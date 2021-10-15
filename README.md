@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ericoden
-- 👀 I’m interested in languages, music, and mathematics
-- 🌱 I’m currently learning mathematics, data science, optimization, and machine learning
+- 👀 I’m interested in mathematics (primarily the subfield of optimization), linguistics (acquisitional, etymological, computational), music (guitar, composition), and ethics
+- 🌱 I’m currently studing the interconnected fields of mathematical programmming/optimization, data science, and machine learning
 - 💞️ I’m looking to collaborate on interesting projects involving combinations/permutations of the above!
 - 📫 My email is ericjoden94@gmail.com, and my website is http://eric-oden.com/
