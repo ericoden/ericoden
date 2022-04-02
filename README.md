@@ -2,4 +2,4 @@
 - 👀 I’m interested in mathematics, linguistics, ethics, music, and cooking
 - 🌱 I’m currently studing the interconnected fields of mathematical programmming/optimization, data science, and machine learning
 - 💞️ I’m looking to collaborate on interesting projects involving combinations/permutations of the above!
-- 📫 My email is ericjoden94@gmail.com, and my website is https://ericoden.com
+- 📫 My email is ericjoden94@gmail.com, and my website is ericoden.com
